@@ -1,5 +1,5 @@
 # Specifications
-The specifications for this project are given in SHARE - Timeline Reqs.pdf, which is in the root.
+The specifications for this project are given in [SHARE - Timeline Reqs.pdf](https://github.com/sldev2/vr-vtsv-timeline/blob/master/SHARE%20-%20Timeline%20Reqs.pdf), which is in the root.
 
 # Voter's Revenge
 Voter's Revenge is an open source software project, which will construct a tool useful for building up populist political muscle. It is designed to exploit the particulars of the American election system as well as optimize types of activism, according to where the electorate is in an election cycle, so as not to waste time and energy attempting forms of activism that experience proves are practically useless. Its github home, where this sub-project and a few others will eventually be integrated, is [sldev2/votersrevenge](https://github.com/sldev2/votersrevenge) . It is expected that the tool will also prove useful in non-US democracies. 
@@ -28,6 +28,10 @@ NOTE: A politician who has recently been elected is probably immune to the direc
 ## status
 ```
 As of 9/23/2021, approximately 25% of the functionality has been demonstrated, but in a vite project (not vue/cli). So, there is basically just scaffolded code here, currently.
+
+## errata
+```
+The spec originally called for vuetify, but this has been abandoned in favor of tailwind.
 
 ## Project setup
 ```
