@@ -26,11 +26,9 @@ NOTE: A politician who has recently been elected is probably immune to the direc
 
 
 ## status
-```
 As of 9/23/2021, approximately 25% of the functionality has been demonstrated, but in a vite project (not vue/cli). So, there is basically just scaffolded code here, currently.
 
 ## errata
-```
 The spec originally called for vuetify, but this has been abandoned in favor of tailwind.
 
 ## Project setup
